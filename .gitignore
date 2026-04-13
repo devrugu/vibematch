@@ -1,0 +1,25 @@
+# Data (too large for git)
+data/images/
+data/raw/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+
+# Environment
+.env
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
