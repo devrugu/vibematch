@@ -2,6 +2,8 @@
 data/images/
 data/raw/
 checkpoints/
+data/processed/game_embeddings.npy
+data/processed/vibematch.index
 
 # Python
 __pycache__/
